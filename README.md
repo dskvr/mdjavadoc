@@ -4,16 +4,11 @@ Markdown Javadoc is a script that generates markdown javadocs primarily for use 
 
 These are generic installation instructions that are fairly similar for both the API and CLI. 
 
-### NPM
-
-```shell
-npm install -g mdjavadoc
-```
 
 ### From Source
 
 ```shell
-git clone https://github.com/TheAndroidMaster/mdjavadoc
+git clone https://github.com/dskvr/mdjavadoc
 cd mdjavadoc/cli
 npm install
 sudo npm link
